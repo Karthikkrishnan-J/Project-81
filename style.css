@@ -1,0 +1,24 @@
+.background {
+    background-image:url("bg1.jpg") ;
+    background-size: cover;
+    background-position: center;
+}
+
+#myCanvas {
+    background-color: rgb(255, 255, 255);
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+}
+#Para{
+    text-decoration-style:wavy;
+    text-transform: initial;
+    font-style: italic;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+}
+img{
+    height: 550px;
+    width: 550px;
+}
